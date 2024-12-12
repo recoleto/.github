@@ -75,7 +75,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 - Você instalou a versão mais recente do node e do npm para o front-end e para o back-end o java 17, o tomcat 10 e a última versão do MySQL.
 - Você tenha git e vite instalado na sua máquina. 
 
-### 💻 Instalando Shelfie-FrontEnd
+### 💻 Instalando Recoleto-FrontEnd
 
 Para instalar o Recoleto-FrontEnd, siga estas etapas:
 
@@ -90,8 +90,8 @@ cd /recoleto-front
 npm install
 ```
 
-### 🚀 Rodando o Shelfie-frontEnd
-Para rodar a aplicação do Shelfie localmente é simples, basta você rodar o comando:
+### 🚀 Rodando o Recoleto-frontEnd
+Para rodar a aplicação do Recoleto localmente é simples, basta você rodar o comando:
 ```
 vite
 ```
